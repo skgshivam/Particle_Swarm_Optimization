@@ -35,10 +35,10 @@ velocity is determined by random terminologies, which is having randomly generat
 numbers for velocity towards pbest and lbest localities.
 
 # Steps involved in the written algorithm:
-● Adding Variables and Parameters of PSO required.
-● Initialising variables’ values,particle’s best and global best.
-● Calculating velocity and energy lost for transmission of information
-● Calculating least cost using Cost Function and updating that particle having least
+* Adding Variables and Parameters of PSO required.
+* Initialising variables’ values,particle’s best and global best.
+* Calculating velocity and energy lost for transmission of information
+* Calculating least cost using Cost Function and updating that particle having least
 cost as cluster head.
-● Cluster head transmits data to base station and cluster moves towards destination
+* Cluster head transmits data to base station and cluster moves towards destination
 optimising total energy.
